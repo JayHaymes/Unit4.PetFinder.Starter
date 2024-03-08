@@ -12,6 +12,7 @@ Begin this Career Simulation by cloning the GitHub repo, pseudocoding prompts, i
 
 The GET route for all pets is currently "under construction". Navigate to `index.js` and find the GET method at `/api/v1/pets` and write the code to get all pets from the database.
 
+
 ### Problem 2: GET pets by name
 
 The GET route for pets by name is currently "under construction". Navigate to `index.js` and find the GET method at `/api/v1/pets/:name` and write the code to get a pet by name from the database.
